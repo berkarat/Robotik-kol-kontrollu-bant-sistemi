@@ -5,4 +5,4 @@ Projenin detaylı açıklamasına aşağıdaki link üzerinden ulaşılabilir
 https://berkarat.com/robotik-kol-projesi/
 
 Projenin videosu
-https://www.youtube.com/watch?v=AScOzfXAlhk
+https://youtu.be/AScOzfXAlhk
